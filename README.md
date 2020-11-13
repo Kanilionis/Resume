@@ -3,11 +3,9 @@
 ## PROFILE
 
 ```
-A dedicated professional with 10+ years of work experience 
-in merchandising, retail and showroom management, sales, operations, 
-production and product development. Currently enrolled in the 
-University of Denver Coding Boot Camp, with a completion date 
-of December 2020.
+A dedicated professional with 10+ years of work experience in merchandising, retail and showroom management, 
+sales, operations, production and product development. Currently enrolled in the University of Denver Coding 
+Boot Camp, with a completion date of December 2020.
 ```
 
 ## EDUCATION
@@ -18,7 +16,7 @@ French minor
 ```
 ```
 University of Denver
-Certificate	in Web Development
+Certificate in Web Development
 ```
 
 ## PROFESSIONAL	EXPERIENCE
