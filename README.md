@@ -3,7 +3,11 @@
 ## PROFILE
 
 ```
-A dedicated professional with 10+ years of work experience in merchandising, retail and showroom management, sales, operations, production and product development. Currently enrolled in the University of Denver Coding Boot Camp, with a completion date of December 2020.
+A dedicated professional with 10+ years of work experience 
+in merchandising, retail and showroom management, sales, operations, 
+production and product development. Currently enrolled in the 
+University of Denver Coding Boot Camp, with a completion date 
+of December 2020.
 ```
 
 ## EDUCATION
@@ -24,9 +28,6 @@ Category Manager
 2018-2020
 eBags | Greenwood Village, CO
 ```
-
-
-
 
 - Head merchant for 3rd party luggage and travel accessories, as well as eBags Brand and HOB travel accessories.
 - Managed pricing, assortment, promotions, and site placements to improve sales and margin, leading to sales growth above company-wide expectations.
@@ -100,7 +101,6 @@ Critical Thinking
 Judgment and Decision Making
 ```
 <br>
-
 # CONTACT INFO
 <br>
 
