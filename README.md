@@ -100,7 +100,7 @@ Judgment and Decision Making
 ```
 <br>
 
-# CONTACT INFO
+## CONTACT INFO
 <br>
 
 #### [<img src="linkedin.png" height="30px" alt="find me on LinkedIn">](https://www.linkedin.com/in/katie-anilionis-4720258a/ "LinkedIn") &nbsp; &nbsp; [<img src="github.png" height="30px">](https://www.github.com/kanilionis "GitHub") &nbsp; &nbsp; [<img src="selfie.png" height="30px">](https://kanilionis.github.io/PortfolioSite/ "portfolio site")
