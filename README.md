@@ -20,7 +20,6 @@ Certificate in Web Development
 ```
 
 ## PROFESSIONAL	EXPERIENCE
-
 ```
 Category Manager
 2018-2020
@@ -31,8 +30,6 @@ eBags | Greenwood Village, CO
 - Managed pricing, assortment, promotions, and site placements to improve sales and margin, leading to sales growth above company-wide expectations.
 - Analyzed selling report and OLAPs to find new strategies and opportunities to increase sales volume and conversion rates.
 
-<br>
-
 ```
 Merchandise Operations Associate
 2018
@@ -41,8 +38,6 @@ eBags | Greenwood Village, CO
 - Immediately starting working with merchandisers and photography teams to get product live on the site.
 - Managed SKU changes and issues with missing color codes in Admin3, and managed buildsheet and image submissions.
 - Proficient in workflow processes, in-house systems including the BI Portal, Admin2, Admin3, and JIRA.
-
-<br>
 
 ```
 Office Manager/Bookkeeper
@@ -54,8 +49,6 @@ A Line Boutique | Denver, CO
 - Formed relationships with vendors to effectively pay invoices as well as confirm or negotiate discounts and payment terms.
 - HR duties, including on-boarding process, paperwork, training, and tracking hours/PTO.
 
-<br>
-
 ```
 Account Executive, Production and Showroom Assistant 
 2013-2016
@@ -66,8 +59,6 @@ Parker | New York, NY
 - Worked very closely with designers to create balanced, and well-merchandised collections, and was involved in all steps of creating Parker Black Collection.
 - Analyzed weekly selling reports to understand best and worst sellers, applied information to help with planning and designing future collections.
 - Created names for colors, prints and garments for each season, coordinated fittings with production team, patternmakers and designers, tracked development of fabrics and samples from India and China, and uploaded pricing, vendor and fabric information, and photos into AMT and NuOrder.
-
-<br>
 
 ```
 East Coast Account Executive
@@ -98,14 +89,10 @@ Social Perceptiveness
 Critical Thinking
 Judgment and Decision Making
 ```
-<br>
 
 ## CONTACT INFO
-<br>
 
 #### [<img src="linkedin.png" height="30px" alt="find me on LinkedIn">](https://www.linkedin.com/in/katie-anilionis-4720258a/ "LinkedIn") &nbsp; &nbsp; [<img src="github.png" height="30px">](https://www.github.com/kanilionis "GitHub") &nbsp; &nbsp; [<img src="selfie.png" height="30px">](https://kanilionis.github.io/PortfolioSite/ "portfolio site")
-
-<br>
 
 #### PHONE
 ```
